@@ -1,0 +1,15 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="practise suite">
+
+<test name="hello">
+
+<classes>
+<class name="TestNGDemo.dependsonMethod"/>
+<class name="TestNGDemo.FlowExection"/>
+</classes>
+
+</test> 
+
+
+</suite>
